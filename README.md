@@ -1,5 +1,5 @@
 # Learning React
-This project was created to improve my skills in React JS. It is meme generator. There I have learned more about event listeners, state, conditional rendering, forms and side effects. 
+This project was created to improve my skills in React JS. It is meme generator. There I have learned more about event listeners, state, conditional rendering, forms and side effects. You can reach this page by https://marharet.github.io/meme-generator/
 
 ## Available Scripts
 
